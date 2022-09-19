@@ -28,7 +28,7 @@ Mas como está distribuída a malha cicloviária de Fortaleza? O principal achad
 
 Para chegar a esse resultado, a Central DATADOC analisou a proporção da malha cicloviária em relação à malha viária de cada bairro da Capital. Em seguida, os bairros foram agrupados por faixa de IDH.
 
-(imagem de algum dos gráficos)
+![Gráfico da evolução temporal da proporção de ruas e avenidas de Fortaleza com sistema cicloviário, por faixa de IDH](/imagem/grafico_markdown.png)
 
 ### Fonte e coleta de dados:
 
