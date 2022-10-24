@@ -56,7 +56,44 @@ Para chegar a esse resultado, a Central DATADOC analisou a proporção da malha 
 
 ## EPISÓDIO 2
 
-*Em breve*
+### Em oito meses de 2022, número de infrações ciclovias e ciclofaixas foi 18 vezes maior do que em todo 2021
+
+Entre 2015 e 2019, os casos de violência no trânsito envolvendo bicicletas, em Fortaleza, aumentaram ano a ano. Os casos passaram de 347 para 881, um crescimento de 153,9% nesse intervalo. No primeiro ano de pandemia de Covid-19, as ocorrências reduziram e atingiram o total de 674, marcando uma queda de 23,5% em relação ao ano anterior. Em 2021 voltou a subir e atingiu 696 — 3,3% a mais.
+
+Outros dados oficiais também mostram o quanto os ciclistas estão vulneráveis mesmo quando circulam nas áreas devidamente separadas para eles nas vias de Fortaleza. Apenas em 2022, entre janeiro e agosto, mais de 27,3 mil multas já foram aplicadas na Capital devido a situações de desrespeito à infraestrutura cicloviária. Essas multas incluem casos em que motoristas e motociclistas estacionam, param e transitam em ciclovia e ciclofaixa.
+
+Para essa reportagem, a Central de Jornalismo de Dados do O POVO (DATADOC) também analisou a distribuição geográfica dos acidentes envolvendo bicicleta entre 2015 e 2020, considerando os 73% dos registros neste período que possuem coordenadas geográficas. 
+
+Os bairros com Índice de Desenvolvimento Humano (IDH) Médio, Alto ou Muito Alto registraram 464 sinistros, 8 deles com mortes. Já aqueles com IDH baixo ou muito baixo registraram 2.535 sinistros, dos quais 109 tiveram óbitos.
+
+Feito a partir dos dados do Sistema de visualização, análise e cadastro de dados de sinistros de trânsito da Autarquia Municipal de Trânsito e Cidadania de Fortaleza (AMC) - Plataforma Vida, o levantamento mostra que a letalidade das ocorrências foi de 4,53% nos bairros de IDH muito baixo de Fortaleza, 2,4 vezes maior que a letalidade nos bairros de IDH muito alto (1,87%).
+
+![Gráfico da evolução temporal da proporção de ruas e avenidas de Fortaleza com sistema cicloviário, por faixa de IDH](/imagem/grafico_markdown.png)
+
+### Fonte e coleta de dados:
+
+- [Sistema de visualização, análise e cadastro de dados de sinistros de trânsito da Autarquia Municipal de Trânsito e Cidadania de Fortaleza (AMC) - Plataforma Vida](https://vida.centralamc.com.br/);
+- Dados sobre multas por infrações à malha cicloviária: Assessoria de imprensa da AMC
+
+### Arquivos gerados
+
+***Dataframes***
+* `dataset_sinistros_com_bicicleta_por_mes.csv`: Sinistros de trânsito em Fortaleza envolvendo bicicleta por mês;
+* `dataset_sinistros.csv`: Total de sinistros de trânsito;
+* `sinistros_ano_com_e_sem_bicicleta.csv`: Sinistros de trânsito em Fortaleza detalhando se envolve ou não bicicleta;
+* `sinistros_com_bicicleta_por_ano.csv`: Sinistros de trânsito em Fortaleza envolvendo bicicleta por ano;
+* sinistros_por_ano.csv: Total de sinistros de trânsito por ano;
+* `variacao_multas_por_ano.csv`: Variação do total de multas por transitar, parar e estacionar em ciclovias e ciclofaixas de Fortaleza entre 2018 e agosto de 2022.
+
+***Visualizações***
+
+- [Variação anual das multas de trânsito por estacionar, parar e transitar em ciclovias e ciclofaixas](https://public.flourish.studio/story/1705827/);
+- Mapbox com exploração visual de dados sobre sinistros de trânsito envolvendo bicicletas em Fortaleza;
+- [Letalidade(%) de sinistros envolvendo bicicletas em Fortaleza-CE, por faixa de IDH dos bairros, entre 2015 e 2020.](https://public.flourish.studio/visualisation/11268930/);
+- [Total de sinistros de trânsito em Fortaleza, entre 2015 e 2021](https://public.flourish.studio/visualisation/11268902/);
+- [Total de sinistros envolvendo bicicletas por ano, entre 2015 e 2021](https://public.flourish.studio/visualisation/11268916/);
+- [Distribuição por dia e hora dos registros de sinistros no trânsito em Fortaleza-CE](https://public.flourish.studio/visualisation/11329450/);
+- [Multas de trânsito por estacionar, parar e transitar em ciclovias e ciclofaixas](https://public.flourish.studio/visualisation/11372365/);
 
 ---
 
