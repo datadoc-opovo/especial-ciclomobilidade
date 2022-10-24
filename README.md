@@ -12,7 +12,7 @@ As matérias, produzidas pela Central de Jornalismo de Dados do Jornal **O POVO*
 | EP | Data de publicação | Reportagem |Bases utilizadas | Arquivos gerados | 
 | -------- | -------- | -------- | -------- | -------- |
 | 01     | 19/09/2022     | [Na Capital, apenas 7% das vias dos bairros com menor IDH têm malha cicloviária](https://mais.opovo.com.br/interativos/cicloviaria-fortaleza/episodio-01.php)     | [Pasta com as bases originais](https://github.com/datadoc-opovo/especial-ciclomobilidade/tree/main/episodio-1/bases_originais)     | [Datasets criados a partir das análises](https://github.com/datadoc-opovo/especial-ciclomobilidade/tree/main/episodio-1/arquivos_gerados)     |
-| 02     | Previsto para 26/09/2022      | Em breve     | Em breve     | Em breve     |
+| 02     | 17/10/2022      | [Infrações à malha cicloviária superam em 18 vezes o ano de 2021](https://mais.opovo.com.br/interativos/cicloviaria-fortaleza/episodio-02.php)     | [Pasta com as bases originais](https://github.com/datadoc-opovo/especial-ciclomobilidade/tree/main/episodio-2/bases_originais)     | [Datasets criados a partir das análises](https://github.com/datadoc-opovo/especial-ciclomobilidade/tree/main/episodio-2/arquivos-gerados)     |
 
 ---
 
@@ -68,7 +68,7 @@ Os bairros com Índice de Desenvolvimento Humano (IDH) Médio, Alto ou Muito Alt
 
 Feito a partir dos dados do Sistema de visualização, análise e cadastro de dados de sinistros de trânsito da Autarquia Municipal de Trânsito e Cidadania de Fortaleza (AMC) - Plataforma Vida, o levantamento mostra que a letalidade das ocorrências foi de 4,53% nos bairros de IDH muito baixo de Fortaleza, 2,4 vezes maior que a letalidade nos bairros de IDH muito alto (1,87%).
 
-![Gráfico da evolução temporal da proporção de ruas e avenidas de Fortaleza com sistema cicloviário, por faixa de IDH](/imagem/grafico_markdown.png)
+![Gráfico da evolução temporal da proporção de ruas e avenidas de Fortaleza com sistema cicloviário, por faixa de IDH](/imagem/grafico-2_markdown.png)
 
 ### Fonte e coleta de dados:
 
